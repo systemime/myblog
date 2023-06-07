@@ -94,6 +94,44 @@ body {
     color: rgba(180, 181, 182, 0.8);
 }
 
+/* .list { */
+    /* 添加!important表示覆盖默认的设置 */
+    /* background-image: url("../../img/dispaly.webp") !important; */
+    /* 照片不重复出现 */
+    /* background-repeat: no-repeat; */
+    /* 照片大小 */
+    /* background-size: 100% 100%; */
+    /* 右侧滚动时照片固定大小 */
+    /* background-attachment: fixed; */
+/* } */
+
+/* .dark .list { */
+    /* background-image: url("../../img/dispaly.png") !important; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 100% 100%; */
+    /* background-attachment: fixed; */
+/* } */
+
+/* .home_page_span {
+    background: rgba(98, 98, 98, 0.6);
+    border-radius: 15px;
+    padding: 8px;
+    color: #fff;
+} */
+
+/* .home_page_span > * {
+    opacity: 1;  /* 设置内部元素 opacity 为 1,不受外层透明度影响 
+} */
+
+/* .home_page_span {
+    font-weight: bold; /* 设置粗体文字 *
+} */
+
+/* .home_page_span span {
+    font-weight: 800; /* 进一步设置为更粗文字 *
+} */
+
+
 img {
     opacity: 1;
     border-radius: 10px;

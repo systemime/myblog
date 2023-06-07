@@ -1,7 +1,8 @@
 baseURL: https://allskill.top/ # 绑定的域名
 languageCode: zh-cn # en-us
-title: Sulv's Blog
+title: AllSkill's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
+# 背景图在 static/img中，默认为dispaly.webp, 在assets/css/extended/blank.css定义
 
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
@@ -36,8 +37,7 @@ languages:
     profileMode:
       enabled: true
       title: (〃'▽'〃)
-      subtitle:
-      # subtitle: "🧨学而时习之，不亦说乎？有朋自远方来，不亦乐乎？<br/>👇联系方式"
+      subtitle: "海到无边天作岸，山登绝顶我为峰"  # 这里支持 <br/>
       imageUrl: "img/Q.gif"
       imageTitle:
       imageWidth: 150
